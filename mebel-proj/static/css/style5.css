@@ -1,0 +1,26 @@
+.inform{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    max-width: 565px;
+    background-color: #ebebeb;
+    border: 2px solid #1c110f;
+    border-radius: 25px;
+    padding: 30px;
+}
+
+text{
+    text-align: center;
+}
+
+.block1{
+    max-width: auto;
+    background-color: #1c110f;
+    padding: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #d2d2d2;
+    margin-top: 10px;
+}
+
+
