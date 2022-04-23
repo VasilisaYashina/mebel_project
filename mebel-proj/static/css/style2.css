@@ -2,24 +2,9 @@ html{
 background-color: white;
 }
 
-img {
-    height: 10%;
-    width: 14%;
-}
-
-
-h3{
-  font-family: "Leto Text Sans";
-  text-align: center;
-  color: black;
-  margin-left: 150px;
-  margin-right: 150px;
-  display: block;
-}
-
 .logo-q{
-    height: 80%;
-    width: 50%;
+    height: 150px;
+    width: 300px;
 }
 
 .container-fluid{
@@ -29,11 +14,7 @@ margin-left: 0px;
 
 .nav-item{
 font-family: "Amazing Grotesk", serif;
-font-size: 185%;
-margin-left: 75px;
-border-radius: 2px;
-background-color: #ffa70f;
-color: red;
-display: block;
+font-size: 250%;
+margin-left: 50px;
 }
 

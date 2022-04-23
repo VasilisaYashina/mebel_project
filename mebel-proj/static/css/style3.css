@@ -1,5 +1,5 @@
 h3{
-    color: floralwhite;
+    color: #1c110f;
 }
 
 
@@ -21,8 +21,8 @@ h3{
 }
 
 .img-fluid{
- margin-left: 5px;
- margin-right: 5px;
+ margin-left: 2%;
+ margin-right: 2%;
  img-align: center;
  padding: 10px;
  border-radius: 5px;
@@ -32,9 +32,13 @@ h3{
  border-radius: 31px;
  width: 10%;
  height: 10.5%;
- margin-right: 8.21px;
- margin-top: 8.21px;
+ margin-right: 0.75%;
+ margin-top: 1%;
 }
 
+img{
+     width: 10%;
+     height: 10%;
+}
 
 
