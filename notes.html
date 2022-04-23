@@ -40,9 +40,17 @@
         <input type="file" class="form-control" id="inputGroupFile02" name="file">
         <label class="input-group-text" for="inputGroupFile02">Фотографии наших работ</label>
     </div>
+        <br>
+    <label for="basic-url" class="form-label">Для того, чтобы ваш отзыв остался в нашем сообществе вк, перейдите по ссылке ниже и скопируйте token.</label>
+<div class="input-group mb-3">
+  <span class="input-group-text" id="basic-addon3"><a href="https://oauth.vk.com/authorize?client_id=8146004&redirect_uri=http://vk.com&display=page&scope=wall&response_type=token&v=5.50">ссылка на вк</a></span>
+  <input type="text" class="form-control" id="basic-url" aria-describedby="basic-addon3">
+</div>
+<br>
       <button type="submit" class="btn btn-primary" name ="note_button">Оставить отзыв</button>
 </div>
-    </form>
+
+</form>
 {% endblock %}
 </body>
 </html>
