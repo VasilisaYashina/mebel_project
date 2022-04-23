@@ -15,6 +15,11 @@ margin-left: 0px;
 .nav-item{
 font-family: "Amazing Grotesk", serif;
 font-size: 250%;
-margin-left: 50px;
+margin-left: 100px;
 }
 
+.def{
+    margin-left: 65px;
+    height: 80px;
+    width: 120px;
+}
